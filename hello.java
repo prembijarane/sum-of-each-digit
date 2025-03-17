@@ -2,6 +2,6 @@ class demo{
 
 public static void main(String args[]){
 
-System.out.println(" command add");
+System.out.println("new  command add");
 }
 }
